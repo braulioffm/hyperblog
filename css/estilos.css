@@ -45,3 +45,13 @@ body {
 #post {
   padding: 1em;
 }
+
+#footer {
+  background: red;
+  padding: 0.5em 0;
+  color:  white;
+  text-align: center;
+
+}
+
+
